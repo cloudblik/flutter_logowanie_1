@@ -36,39 +36,39 @@ class DefaultFirebaseOptions {
   // TODO (codelab user): Replace with your Firebase credentials
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBY08m4TOpgaVAyv6A1qmzG00mZeyTSndg',
-    appId: '1:854710865082:web:171ffb776064e2b6724683',
-    messagingSenderId: '854710865082',
-    projectId: 'logowanie-firebase-39394',
-    authDomain: 'logowanie-firebase-39394.firebaseapp.com',
-    storageBucket: 'logowanie-firebase-39394.appspot.com',
+    apiKey: 'AIzaSyCFsBa25iKaEMfOQH5c84uXiVYyV4MUazQ',
+    appId: '1:81210012885:web:d31adbe725a6a7e0bc9e5c',
+    messagingSenderId: '81210012885',
+    projectId: 'flutter-logowanie-1',
+    authDomain: 'flutter-logowanie-1.firebaseapp.com',
+    storageBucket: 'flutter-logowanie-1.appspot.com',
   );
 
   // Generate this file with credentials with the FlutterFire CLI
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCd8OMlp_3S5Nw2J0Nqw-6VWdKDOmYU6wo',
-    appId: '1:854710865082:android:c5119bbaf3b9f350724683',
-    messagingSenderId: '854710865082',
-    projectId: 'logowanie-firebase-39394',
-    storageBucket: 'logowanie-firebase-39394.appspot.com',
+    apiKey: 'AIzaSyAqyvotiQApadmuv0yt7joYFx3LfW0Q4wg',
+    appId: '1:81210012885:android:6dad949e38c4102cbc9e5c',
+    messagingSenderId: '81210012885',
+    projectId: 'flutter-logowanie-1',
+    storageBucket: 'flutter-logowanie-1.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC9dV9jUNVRMb_diZikWCoxeWYlu4qPoVY',
-    appId: '1:854710865082:ios:b5b66f87310c0f63724683',
-    messagingSenderId: '854710865082',
-    projectId: 'logowanie-firebase-39394',
-    storageBucket: 'logowanie-firebase-39394.appspot.com',
+    apiKey: 'AIzaSyBwTv9rG5Wb8TMGCzwq8PNfhHnGWlHqWCA',
+    appId: '1:81210012885:ios:8fb7918ad23f62efbc9e5c',
+    messagingSenderId: '81210012885',
+    projectId: 'flutter-logowanie-1',
+    storageBucket: 'flutter-logowanie-1.appspot.com',
     iosBundleId: 'com.example.complete',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC9dV9jUNVRMb_diZikWCoxeWYlu4qPoVY',
-    appId: '1:854710865082:ios:b5b66f87310c0f63724683',
-    messagingSenderId: '854710865082',
-    projectId: 'logowanie-firebase-39394',
-    storageBucket: 'logowanie-firebase-39394.appspot.com',
+    apiKey: 'AIzaSyBwTv9rG5Wb8TMGCzwq8PNfhHnGWlHqWCA',
+    appId: '1:81210012885:ios:8fb7918ad23f62efbc9e5c',
+    messagingSenderId: '81210012885',
+    projectId: 'flutter-logowanie-1',
+    storageBucket: 'flutter-logowanie-1.appspot.com',
     iosBundleId: 'com.example.complete',
   );
 

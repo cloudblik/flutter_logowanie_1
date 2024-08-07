@@ -1,40 +1,21 @@
 {
   "project_info": {
-    "project_number": "854710865082",
-    "project_id": "logowanie-firebase-39394",
-    "storage_bucket": "logowanie-firebase-39394.appspot.com"
+    "project_number": "81210012885",
+    "project_id": "flutter-logowanie-1",
+    "storage_bucket": "flutter-logowanie-1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:854710865082:android:32fde78853db34f9724683",
+        "mobilesdk_app_id": "1:81210012885:android:6dad949e38c4102cbc9e5c",
         "android_client_info": {
-          "package_name": "com.example.app"
+          "package_name": "flutterlogowanie.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCd8OMlp_3S5Nw2J0Nqw-6VWdKDOmYU6wo"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:854710865082:android:c5119bbaf3b9f350724683",
-        "android_client_info": {
-          "package_name": "com.myapp.app"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCd8OMlp_3S5Nw2J0Nqw-6VWdKDOmYU6wo"
+          "current_key": "AIzaSyAqyvotiQApadmuv0yt7joYFx3LfW0Q4wg"
         }
       ],
       "services": {
